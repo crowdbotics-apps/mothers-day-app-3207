@@ -1,0 +1,3 @@
+rootProject.name = 'mothers_day_app_3207'
+
+include ':app'

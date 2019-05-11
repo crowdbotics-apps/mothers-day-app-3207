@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT mothers_day_app_3207.wsgi:application
